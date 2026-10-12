@@ -1,0 +1,9 @@
+Python 3.13.15 (tags/v3.13.15:4061bc4, Aug  5 2026, 13:05:39) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/B2.py ====
+Please enter the total resistors3
+Enter R1:100
+Enter R2:200
+Enter R3:300
+The total resistance= 600 Ohm

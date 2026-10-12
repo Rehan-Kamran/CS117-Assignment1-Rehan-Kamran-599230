@@ -1,0 +1,23 @@
+Python 3.13.15 (tags/v3.13.15:4061bc4, Aug  5 2026, 13:05:39) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A5.py ====
+Enter resistor value100
+Enter resistor value320
+Enter resistor value489
+Smallest resistor is 100 Ohm
+Largest resistor is 489 Ohm
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A5.py ====
+Enter resistor value500
+Enter resistor value329
+Enter resistor value90
+Smallest resistor is 90 Ohm
+Largest resistor is 500 Ohm
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A5.py ====
+Enter resistor value329
+Enter resistor value400
+Enter resistor value220
+Smallest resistor is 220 Ohm
+Largest resistor is 400 Ohm

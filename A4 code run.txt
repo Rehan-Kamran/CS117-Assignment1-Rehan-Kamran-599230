@@ -1,0 +1,30 @@
+Python 3.13.15 (tags/v3.13.15:4061bc4, Aug  5 2026, 13:05:39) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A4.py ====
+Enter A1
+Enter B1
+AND=1
+OR=1
+XOR=0
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A4.py ====
+Enter A1
+Enter B0
+AND=0
+OR=1
+XOR=1
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A4.py ====
+Enter A0
+Enter B1
+AND=0
+OR=1
+XOR=1
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A4.py ====
+Enter A0
+Enter B0
+AND=0
+OR=0
+XOR=0

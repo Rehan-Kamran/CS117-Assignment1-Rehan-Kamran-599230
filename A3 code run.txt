@@ -1,0 +1,26 @@
+Python 3.13.15 (tags/v3.13.15:4061bc4, Aug  5 2026, 13:05:39) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A3.py ====
+Please enter the colour name:black
+Digit=0
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A3.py ====
+Please enter the colour name:RED
+Digit=2
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A3.py ====
+Please enter the colour name:Green
+Digit=5
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A3.py ====
+Please enter the colour name:blue
+Digit=6
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A3.py ====
+Please enter the colour name:whiTe
+Digit=9
+>>> 
+===== RESTART: C:/Users/rehan/AppData/Local/Programs/Python/Python313/A3.py ====
+Please enter the colour name:cyan
+invalid colour
